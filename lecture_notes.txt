@@ -1,5 +1,15 @@
 Monday May 9
 
+- git documentation
+	* git-scm.com
+	* git book
+
 - On resolving merge conflicts:
 	* Instructor showed that instead of doing 'git commit' after haven resolved conflict and run 'git add', you can run 'git merge --continue'
 	* Go back to rebasing exercise, more info found in 'basics' section
+
+- git history
+	* 'git grep' useful for finding patterns in files only known to git
+	* also possible to search staged
+	* 'git log -S sometext' to search through changes to find where something got removed
+	* what was 'git blame' used for?
