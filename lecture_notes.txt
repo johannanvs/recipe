@@ -2,3 +2,4 @@ Monday May 9
 
 - On resolving merge conflicts:
 	* Instructor showed that instead of doing 'git commit' after haven resolved conflict and run 'git add', you can run 'git merge --continue'
+	* Go back to rebasing exercise, more info found in 'basics' section
